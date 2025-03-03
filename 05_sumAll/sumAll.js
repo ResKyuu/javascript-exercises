@@ -1,5 +1,6 @@
 const sumAll = function(startNum, endNum) {
     let sum = 0;
+
     if(startNum > 0 && endNum > 0 && Number.isInteger(startNum) && Number.isInteger(endNum)) {
         if (startNum < endNum) {
             while (startNum <= endNum) {

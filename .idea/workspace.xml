@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51676ea9-5daa-4d86-9f5d-23df9f299118" name="Changes" comment="" />
+    <list default="true" id="51676ea9-5daa-4d86-9f5d-23df9f299118" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_sumAll/sumAll.js" beforeDir="false" afterPath="$PROJECT_DIR$/05_sumAll/sumAll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_leapYears/leapYears.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_leapYears/leapYears.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_leapYears/leapYears.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_leapYears/leapYears.spec.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,25 +26,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Jest.sumAll.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.sumAll.sums numbers within the range.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.sumAll.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vboxuser/javascript-exercises&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs.jest.jest_package&quot;: &quot;/home/vboxuser/javascript-exercises/node_modules/jest&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/snap/webstorm/439/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Jest.sumAll.executor": "Run",
+    "Jest.sumAll.sums numbers within the range.executor": "Run",
+    "Node.js.sumAll.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/vboxuser/javascript-exercises",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/home/vboxuser/javascript-exercises/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/snap/webstorm/445/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="sumAll.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05_sumAll/sumAll.js" working-dir="$PROJECT_DIR$/05_sumAll">
       <method v="2" />
@@ -53,7 +58,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -67,7 +72,8 @@
       <updated>1740747433379</updated>
       <workItem from="1740747436051" duration="7717000" />
       <workItem from="1740755189218" duration="158000" />
-      <workItem from="1740755435417" duration="972000" />
+      <workItem from="1740755435417" duration="3236000" />
+      <workItem from="1741000610547" duration="2612000" />
     </task>
     <servers />
   </component>
