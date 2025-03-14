@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="51676ea9-5daa-4d86-9f5d-23df9f299118" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_palindromes/palindromes.js" beforeDir="false" afterPath="$PROJECT_DIR$/09_palindromes/palindromes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_palindromes/palindromes.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/09_palindromes/palindromes.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_fibonacci/fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/10_fibonacci/fibonacci.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_fibonacci/fibonacci.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/10_fibonacci/fibonacci.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs.jest.jest_package&quot;: &quot;/home/vboxuser/javascript-exercises/node_modules/jest&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/snap/webstorm/451/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -74,7 +75,12 @@
       <workItem from="1740755435417" duration="3236000" />
       <workItem from="1741000610547" duration="4493000" />
       <workItem from="1741960013098" duration="2387000" />
-      <workItem from="1741963067529" duration="83000" />
+      <workItem from="1741963067529" duration="329000" />
+      <workItem from="1741963403120" duration="216000" />
+      <workItem from="1741963628097" duration="185000" />
+      <workItem from="1741963821216" duration="361000" />
+      <workItem from="1741964191383" duration="108000" />
+      <workItem from="1741964307705" duration="2677000" />
     </task>
     <servers />
   </component>
